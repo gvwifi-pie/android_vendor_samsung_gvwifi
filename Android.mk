@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),a5xelte)
+ifeq ($(TARGET_DEVICE),gvwifi)
 
 endif
