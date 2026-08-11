@@ -69,6 +69,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gvwifi/proprietary/lib/libtfa98xx.so:system/lib/libtfa98xx.so \
     vendor/samsung/gvwifi/proprietary/vendor/etc/yas_set.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/yas_set.cfg \
     vendor/samsung/gvwifi/proprietary/vendor/firmware/bcm43454_V0161.0287.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm43454_V0161.0287.hcd \
+    vendor/samsung/gvwifi/proprietary/vendor/firmware/bcm43454_V0161.0287.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm43455_V0097.0130.hcd \
     vendor/samsung/gvwifi/proprietary/vendor/firmware/fimc_is_fd.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_fd.bin \
     vendor/samsung/gvwifi/proprietary/vendor/firmware/fimc_is_fw2_3l2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_fw2_3l2.bin \
     vendor/samsung/gvwifi/proprietary/vendor/firmware/mfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mfc_fw.bin \
